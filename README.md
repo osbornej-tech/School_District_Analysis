@@ -18,10 +18,12 @@ Using bulleted lists and images of DataFrames as support, address the following 
 *How does replacing the ninth-grade scores affect the following:
 *Math and reading scores by grade
 Math score
+
 <img src ='https://github.com/osbornej-tech/School_District_Analysis/blob/main/Resources/average_math_score.png'>
 
 
 Reading score 
+
 <img src ='https://github.com/osbornej-tech/School_District_Analysis/blob/main/Resources/average_reading_score.png'>
 
 *Scores by school spending
