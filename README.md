@@ -57,8 +57,8 @@ In general, the omission of Thomas High School ninth grade data did not affect t
 
 ## Resources
 Datasources: 
-* student_complete.csv
-* school_complete.csv
+* [student_complete.csv](https://github.com/osbornej-tech/School_District_Analysis/blob/main/Resources/students_complete.csv)
+* [school_complete.csv](https://github.com/osbornej-tech/School_District_Analysis/blob/main/Resources/schools_complete.csv)
 
 Software: [Juptyer Notebook](https://github.com/osbornej-tech/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
 
