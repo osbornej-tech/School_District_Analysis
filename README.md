@@ -56,6 +56,10 @@ In general, the omission of Thomas High School ninth grade data did not affect t
  - Omitting ninth grade scores, resulted in a change in the ranking for Thomas High School.
 
 ## Resources
-Datasources: student_complete.csv, school_complete.csv
-Software: Juptyer Notebook
+Datasources: 
+* student_complete.csv
+* school_complete.csv
+
+Software: [Juptyer Notebook](https://github.com/osbornej-tech/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
+
 Library: pandas
